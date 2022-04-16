@@ -1,0 +1,27 @@
+{
+  "name": "startapp-node",
+  "version": "1.0.0",
+  "description": "A script that bring Django app structure to Node.js and express application",
+  "main": "main.js",
+  "bin": "main.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feyton/start-app-package.git"
+  },
+  "keywords": [
+    "Node",
+    "Startapp",
+    "express",
+    "web-dev"
+  ],
+  "author": "Fabrice Hafashimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feyton/start-app-package/issues"
+  },
+  "homepage": "https://github.com/feyton/start-app-package#readme",
+  "dependencies": {
+  }
+}
